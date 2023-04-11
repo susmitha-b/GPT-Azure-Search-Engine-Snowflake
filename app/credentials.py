@@ -1,7 +1,7 @@
 
 # We recommend leaving these two variables as below. The DATASOURCE_CONNECTION_STRING contains 9800 PDFs from Arxiv Computer Science publications. Change it if you want to use your own data.
 DATASOURCE_CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=depprocureformstorage;AccountKey=Ze0i+1gPZIw5NRNV/r9C+/comhFAX+jOCSNVzN7jSMwmQqCKf/Aw3oq/Qi3sUkLDLcFviEXNawbl+AStqOf7Hg==;EndpointSuffix=core.windows.net"
-DATASOURCE_SAS_TOKEN = "?sv=2021-12-02&ss=bfqt&srt=c&sp=rwdlacupiytfx&se=2023-04-10T17:34:30Z&st=2023-04-10T09:34:30Z&spr=https&sig=ctQTfHnfwJ6Vtn7YNJ9oGjHgg5I8q%2B%2FNbprDs93Ra4E%3D"
+DATASOURCE_SAS_TOKEN = "sp=r&st=2023-04-11T06:19:32Z&se=2023-04-11T14:19:32Z&spr=https&sv=2021-12-02&sr=c&sig=2Uanee4tMNOzzE1R75AE0ovkvXd3B56hRiUn7Dmc4nw%3D"
 AZURE_SEARCH_API_VERSION = '2021-04-30-Preview'
 AZURE_OPENAI_API_VERSION = "2023-03-15-preview"
 

@@ -113,7 +113,7 @@ if qbutton or bbutton or st.session_state.get("submit"):
     else:
         # Azure Search
         
-        index1_name = "cogsrch-snowflake-index-files"
+        index1_name = "cogsearch-snowflake-index-files"
         indexes = [index1_name]
         agg_search_results = get_search_results(query, indexes)
 
